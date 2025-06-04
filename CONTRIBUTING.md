@@ -93,3 +93,24 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+
+📘 Guia Simples: Acesso aos Commits de Projetos
+1. O que é um Commit?
+Um commit é um registro de alterações feitas no código. Ele inclui:
+Quem fez a alteração
+
+Quando foi feita
+
+O que foi alterado
+
+2. Como Ver os Commits
+🔹 Pelo GitHub / GitLab (Navegador)
+Acesse o repositório do projeto
+
+Clique em "Commits" ou em "History"
+Veja:
+Nome do autor
+Data
+Mensagem do commit
+Arquivos alterados
